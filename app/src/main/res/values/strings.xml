@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">POS</string>
+    <string name="action_editMenu">Edit Menu</string>
+    <string name="login">Masuk</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="register">Daftar</string>
+    <string name="defaultJumlah">0</string>
+    <string name="action_laba">Lihat Laba</string>
+    <string name="action_report_penjualan">Report Penjualan</string>
+</resources>
