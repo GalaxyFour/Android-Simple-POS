@@ -28,7 +28,7 @@
             android:layout_height="wrap_content"
             android:textAlignment="center"
             android:textSize="28sp"
-            android:text="Erwin &amp; Sufi"
+            android:text="Application"
             android:textStyle="bold"
             android:textColor="@color/colorPrimary"
             />
